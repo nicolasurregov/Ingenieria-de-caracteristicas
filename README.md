@@ -36,6 +36,7 @@ Agradezco tu interés en este proyecto de ingeniería de características y espe
 ## Requisitos
 - Python 3.x
 - Bibliotecas de Python (numpy, pandas, scikit-learn, matplotlib, seaborn, entre otras). Puedes instalarlas utilizando el archivo `requirements.txt`.
+- En caso de querer reproducir los resultados puedes descargar los conjuntos de datos disponibles en la carpeta datasets.
 
 ## Instalación
 1. Clona este repositorio en tu máquina local utilizando `git clone`.
