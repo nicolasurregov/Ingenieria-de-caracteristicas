@@ -38,8 +38,8 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 4. Envía una solicitud de extracción (pull request).
 
 ## Licencia
-Este proyecto se distribuye bajo la licencia [INSERTA_LICENCIA](LICENSE). 
+Este proyecto se distribuye bajo la licencia MIT. 
 
 ---
 
-Atribución: Este proyecto fue desarrollado por [Tu Nombre] y está disponible en GitHub como recurso abierto.
+Atribución: Este proyecto fue desarrollado por Nicolás Urrego y está disponible en GitHub como recurso abierto.
