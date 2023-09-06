@@ -1,9 +1,8 @@
-# Proyecto de Ingeniería de Características
+# Ingeniería de Características
 
-## Descripción del Proyecto
 Este proyecto de ingeniería de características se enfoca en optimizar la preparación y transformación de datos con el propósito de utilizarlos eficazmente en tareas de aprendizaje automático. Abordamos una amplia gama de técnicas y herramientas para mejorar la calidad y la relevancia de las características, lo que tiene un impacto directo en el rendimiento de los modelos de aprendizaje automático.
 
-Nuestro proyecto abarca varios aspectos esenciales de la ingeniería de características:
+Mi proyecto abarca varios aspectos esenciales de la ingeniería de características:
 
 1. **Selección y extracción de características:** Exploramos métodos avanzados para identificar y elegir las características más influyentes para un modelo, lo que conduce a modelos más precisos y eficientes. Además, exploramos técnicas de extracción de características que pueden crear nuevas variables relevantes a partir de las existentes.
 
